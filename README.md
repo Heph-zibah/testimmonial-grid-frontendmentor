@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Testimonial Grid Solution URL](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub/testimonials-grid-section-r1zlKHlDc/)
-- Live Site URL: [Testimonial Grid Live Site URL](https://your-live-site-url.com)
+- Live Site URL: [Testimonial Grid Live Site URL](https://testimonial-grid-feature-frontendmentor.netlify.app/)
 
 ## My process
 
